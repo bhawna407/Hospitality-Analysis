@@ -43,11 +43,17 @@ Targeted SQL Queries for deeper analysis can be found HERE.
 
 **Data Structure & Initial Checks**
 AtliQ Grands’ database structure, as illustrated in the model view, consists of 6 tables: Dim_Hotels, Fact_Bookings, Dim_Date, Dim_Rooms, Fact_Aggregated_Bookings, Dim_Customers, with a total row count of 508,627 records.
+
+![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/OYO%20DATAMODEL.png)
+
 Prior to the beginning of the analysis, a variety of chechks were conducted for quality control & familizarization with the datasets. The SQL Queries utilized to inspect & perform quality checks can be found here.
 
 **Executive Summary**
 
 **Overview of Findings**
+
+![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/OYO%20.png)
+
 AtliQ Grands’ performance analysis highlights operational and revenue optimization opportunities critical for sustaining profitability and enhancing guest experience. The portfolio-wide occupancy stands at 57.9%, signaling underutilized room capacity despite a stable ADR (~14.92K). Consequently, RevPAR (~0.01) remains below potential, indicating that revenue constraints are driven primarily by occupancy inefficiencies rather than pricing. The dashboard further reveals a cancellation rate of 24.83%, contributing to revenue volatility and forecasting challenges. Demand patterns show stronger weekend occupancy (62.6%) compared to weekday performance (56.0%), suggesting uneven business demand distribution. Additionally, reliance on third-party booking platforms may be exerting margin pressure through commission costs. Variations in average guest ratings (≈3.2–3.8) across properties point toward inconsistencies in service or stay experience. To improve overall performance, AtliQ Grands should prioritize weekday demand stimulation, reduce OTA dependency through direct booking incentives, refine cancellation controls, and address experience gaps in lower-rated properties.
 
 Below is the overview page from the Power BI dashboard, and more examples are included throughout the report. The entire interactive dashboard can be downloaded HERE.
