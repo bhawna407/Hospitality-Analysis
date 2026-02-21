@@ -36,6 +36,7 @@ AtliQ Grands is a luxury business hotel chain operating across major Indian citi
 An interactive Power BI Dashboard (as shown in the screenshots) can be downloaded HERE.
 
 The SQL Queries utilized for inspection and validation can be found HERE.
+[HERE](https://github.com/bhawna407/Hospitality-Analysis/blob/main/AtliQ%20Grands%20Hospitality%20Analysis.sql)
 
 SQL Queries used for cleaning and transformation can be found HERE.
 
