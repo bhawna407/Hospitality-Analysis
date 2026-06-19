@@ -41,7 +41,8 @@ The SQL Queries utilized for inspection and validation can be found
 
 SQL Queries used for cleaning and transformation can be found HERE.
 
-Targeted SQL Queries for deeper analysis can be found HERE.
+Targeted SQL Queries for deeper analysis can be found 
+[HERE](https://github.com/bhawna407/Hospitality-Analysis/blob/main/ATLIQ%20Grand%20Hotel.sql.sql).
 
 **Data Structure & Initial Checks**
 AtliQ Grands’ database structure, as illustrated in the model view, consists of 6 tables: Dim_Hotels, Fact_Bookings, Dim_Date, Dim_Rooms, Fact_Aggregated_Bookings, Dim_Customers, with a total row count of 508,627 records.
