@@ -68,12 +68,20 @@ This section evaluates how effectively AtliQ Grands is utilizing its available r
 
 **Demand Imbalance**: The noticeable variation between **Weekend Occupancy (62.6%)** and **Weekday Occupancy (56.0%)** suggests uneven demand distribution, pointing toward weaker corporate/business travel during weekdays.
 
+![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/REVENUE%20PERF.%20ADR%20%26%20REVPAR.png)
+
 **Utilization Efficiency**: Consistently moderate occupancy levels imply that pricing alone is not the constraint; rather, demand stimulation and channel optimization are required.
 
 **Operational Implication**: Underutilized rooms represent fixed-cost inefficiencies, as operational expenses continue regardless of occupancy.
 
 **REVENUE PERFORMANCE (ADR & RevPAR DYNAMICS)**
 This section examines how pricing strategy and room sales efficiency translate into revenue generation.
+
+![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/revenue%20perf.%20ATLIQ%20HOTEL.png)
+
+![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/REVENUE%20PERF.%20ATLIQ%20HOTEL%20BY%20CITY.png)
+
+![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/REVENUE%20PERF.%20WEEKDAY%20%26%20WEEKEND.png)
 
 **ADR Stability**: The Average Daily Rate **(~14.92K)** remains relatively stable, indicating that the brand’s pricing power is intact.
 
@@ -86,6 +94,8 @@ This section examines how pricing strategy and room sales efficiency translate i
 **BOOKING CHANNELS & REALISATION PERFORMANCE**
 This section focuses on revenue sources and how efficiently potential revenue is converted into realized revenue.
 
+![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/BOOKING%20CHANNELS.png)
+
 **Platform Contribution**: Revenue share from **third-party booking** platforms suggests reliance on OTAs, which may compress margins through commission payouts.
 
 **Realisation % Variance**: Fluctuations in Realisation % indicate inconsistencies between theoretical revenue potential and actual revenue capture.
@@ -96,6 +106,10 @@ This section focuses on revenue sources and how efficiently potential revenue is
 
 **CANCELLATIONS & GUEST EXPERIENCE SIGNALS**
 This section assesses factors affecting revenue stability and customer satisfaction.
+
+![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/CANCELLATIONS.png)
+
+![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/OCCUPANCY%20%26%20CAPACITY%20UTILIZATION.png)
 
 **Cancellation Pressure**: The Cancellation Rate (24.83%) introduces revenue volatility, reduces forecast accuracy, and disrupts operational planning.
 
