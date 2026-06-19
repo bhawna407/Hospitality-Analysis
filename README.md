@@ -79,8 +79,6 @@ This section examines how pricing strategy and room sales efficiency translate i
 
 ![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/revenue%20perf.%20ATLIQ%20HOTEL.png)
 
-![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/REVENUE%20PERF.%20ATLIQ%20HOTEL%20BY%20CITY.png)
-
 ![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/REVENUE%20PERF.%20WEEKDAY%20%26%20WEEKEND.png)
 
 **ADR Stability**: The Average Daily Rate **(~14.92K)** remains relatively stable, indicating that the brand’s pricing power is intact.
