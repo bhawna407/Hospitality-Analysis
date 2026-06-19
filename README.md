@@ -33,7 +33,8 @@ AtliQ Grands is a luxury business hotel chain operating across major Indian citi
 
 **KPI Monitoring**: Use the dashboard for continuous tracking of Occupancy %, ADR, RevPAR, Realisation %, and Cancellations.
 
-An interactive Power BI Dashboard (as shown in the screenshots) can be downloaded HERE.
+An interactive Power BI Dashboard (as shown in the screenshots) can be downloaded 
+[HERE](https://github.com/bhawna407/Hospitality-Analysis/blob/main/OYO%20STAKEHOLDER%20PROJ.pbix).
 
 The SQL Queries utilized for inspection and validation can be found
 [HERE](https://github.com/bhawna407/Hospitality-Analysis/blob/main/AtliQ%20Grands%20Hospitality%20Analysis.sql).
