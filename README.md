@@ -62,6 +62,8 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 **OCCUPANCY & CAPACITY UTILIZATION**
 This section evaluates how effectively AtliQ Grands is utilizing its available room inventory across properties and time periods.
 
+![Dashboard](https://github.com/bhawna407/Hospitality-Analysis/blob/main/OCCUPANCY%20%26%20CAPACITY%20UTILIZATION.png)
+
 **Occupancy Analysis**: The overall Occupancy Rate of **57.9%** indicates that a significant portion of room capacity remains unsold, directly limiting revenue potential.
 
 **Demand Imbalance**: The noticeable variation between **Weekend Occupancy (62.6%)** and **Weekday Occupancy (56.0%)** suggests uneven demand distribution, pointing toward weaker corporate/business travel during weekdays.
